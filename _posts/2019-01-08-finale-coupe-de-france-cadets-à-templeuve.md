@@ -2,7 +2,7 @@
 layout: post
 tags:
   - résultats
-  - cyclocross
+  - piste
 ---
 
 [Finale Coupe France Cadets Templeuve.pdf](/website/resultats/Finale Coupe France Cadets Templeuve.pdf)
