@@ -24,11 +24,11 @@
   border-bottom: 1px dotted #ddd;
 }
 
-.post-area a:link, .post-area a:visited {
+.post-area>a:link, .post-area>a:visited {
   font-size: 30px;
   color: #333;
 }
 
-.post-area a:hover {
+.post-area>a:hover {
   color: #0D0017;
 }
