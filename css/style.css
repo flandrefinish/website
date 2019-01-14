@@ -29,6 +29,11 @@
   color: #333;
 }
 
+.post-area img {
+  max-width: 100%;
+  height: auto;
+}
+
 .post-area>a:hover {
   color: #0D0017;
 }
